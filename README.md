@@ -4,7 +4,7 @@
 
 ```
 git clone https://github.com/fanqi/fonts.git
-cd fonts
+cd fonts/ttf/
 cp *.ttf ~/Library/Fonts
 ```
 
